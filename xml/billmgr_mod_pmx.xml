@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mgrdata>
+  <plugin name="pmx">
+    <group>processing_module</group>
+    <author>Artem Borisovskiy</author>
+    <params>
+      <type name="domain"/>
+    </params>
+  </plugin>
+  <lang name="ru">
+    <messages name="plugin">
+      <msg name="desc_short_pmx">X</msg>
+      <msg name="desc_full_pmx">X</msg>
+      <msg name="price_pmx">Бесплатно</msg>
+    </messages>
+  </lang>
+  <lang name="en">
+    <messages name="plugin">
+      <msg name="desc_short_pmx">X</msg>
+      <msg name="desc_full_pmx">X</msg>
+      <msg name="price_pmx">Free</msg>
+    </messages>
+  </lang>
+</mgrdata>
